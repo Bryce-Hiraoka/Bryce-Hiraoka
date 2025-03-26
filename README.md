@@ -10,7 +10,7 @@
 
 ### Technologies
 
-![AWS](https://img.shields.io/badge/-AWS-fff?&logo=Amazon-AWS&logoColor=232F3E)
+![AWS](https://img.shields.io/badge/-AWS-fff?&logo=amazonwebservices&logoColor=232F3E)
 ![Docker](https://img.shields.io/badge/-Docker-fff?&logo=Docker)
 ![Jira](https://img.shields.io/badge/-Jira-fff?&logo=jira-software&logoColor=0052CC)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-fff?&logo=Kubernetes)
