@@ -6,7 +6,7 @@
 ![C](https://img.shields.io/badge/-C-fff?&logo=C)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-fff?&logo=TypeScript&logoColor=007ACC)
 ![C++](https://img.shields.io/badge/-C++-fff?&logo=c%2b%2b&logoColor=00599C)
-![Go](https://img.shields.io/badge/-Go++-fff?&logo=go%2b%2b&logoColor=#00ADD8)
+![Go](https://img.shields.io/badge/-Go-fff?&logo=go%2b%2b&logoColor=#00ADD8)
 
 ### Technologies
 
