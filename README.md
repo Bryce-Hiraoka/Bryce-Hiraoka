@@ -6,8 +6,7 @@
 ![C](https://img.shields.io/badge/-C-fff?&logo=C)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-fff?&logo=TypeScript&logoColor=007ACC)
 ![C++](https://img.shields.io/badge/-C++-fff?&logo=c%2b%2b&logoColor=00599C)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-fff?&logo=PostgreSQL&logoColor=336791)
-![Swift](https://img.shields.io/badge/-Swift-fff?&logo=Swift)
+![Go](https://img.shields.io/badge/-Go++-fff?&logo=go%2b%2b&logoColor=#00ADD8)
 
 ### Technologies
 
@@ -17,7 +16,5 @@
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-fff?&logo=Kubernetes)
 ![Linux](https://img.shields.io/badge/-Linux-fff?&logo=linux&logoColor=000)
 ![Node.js](https://img.shields.io/badge/-Node.js-fff?&logo=node.js)
-![Prometheus](https://img.shields.io/badge/-Prometheus-fff?&logo=Prometheus)
 ![React](https://img.shields.io/badge/-React-fff?&logo=React)
-![Spring](https://img.shields.io/badge/-Spring-fff?&logo=Spring)
 ![TCP/IP](https://img.shields.io/badge/-TCP/IP-fff?&logo=Cisco)
