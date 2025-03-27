@@ -1,13 +1,11 @@
 <h1 align="center">Hi, I'm Bryce Hiraoka 👋</h1>
 
-<p align="center">
-  Computer Science @ Boston University
-</p>
-
 ---
 
 ### **About Me**
-Hi, I have a passion for machine learning and full-stack development. </br>
+
+I am a recent Boston University Computer Science Graduate. </br>
+I have a passion for machine learning and full-stack development. </br>
 I enjoy learning new things and developing web sites.
 
 ---
