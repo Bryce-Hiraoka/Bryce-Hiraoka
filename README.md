@@ -1,4 +1,21 @@
-# About Me
+<h1 align="center">Hi, I'm Bryce Hiraoka 👋</h1>
+
+<p align="center">
+  🚀 Senior Computer Science Major at Boston University | 💡 AI Enthusiast | 🎯 Problem Solver
+</p>
+
+---
+
+### **About Me**
+- 🎓 Senior at **Boston University**, majoring in **Computer Science** and minoring in **Business**.
+- 💼 Former **Software Engineer Intern** at **LinQuest**, where I:
+  - 🛰️ Built a **LEO satellite emulator**.
+  - 📡 Developed and maintained APIs for existing LEO satellite systems.
+- 🎮 Passionate about building AI-driven applications and data-driven solutions.
+- 🌌 Space and satellite enthusiast with an interest in aerospace technology.
+- ✍️ President of the **Japanese Student Association** at Boston University.
+
+---
 
 
 
