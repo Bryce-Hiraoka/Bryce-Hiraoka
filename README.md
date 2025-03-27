@@ -24,8 +24,7 @@
 ![TCP/IP](https://img.shields.io/badge/-TCP/IP-fff?&logo=Cisco)
 
 
-### 📈 **GitHub Stats**
+### 📊 **Languages Used**
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bryce-Hiraoka&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bryce-Hiraoka&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bryce-Hiraoka&langs_count=6&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" />
 </p>
