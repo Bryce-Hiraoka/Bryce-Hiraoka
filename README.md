@@ -33,5 +33,5 @@ I enjoy learning new things and developing web sites.
 
 
 <!--![Bryce's github stats](https://github-readme-stats.vercel.app/api?username=Bryce-Hiraoka&show_icons=true&hide_border=true)&nbsp;&nbsp;-->
-![Bryce's Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Bryce-Hiraoka&hide=cython,fortran&layout=compact&langs_count=10&hide_border=true)
+![Bryce's Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Bryce-Hiraoka&hide=cython,fortran&exclude_repo= bhiraoka-assignment-10, bhiraoka-assignment-8, bhiraoka-assignment-7, bhiraoka-assignment-6, bhiraoka-assignment-5, bhiraoka-assignment-4, bhiraoka-assignment-3, bhiraoka-assignment-2, bhiraoka-assignment-1&layout=compact&langs_count=10&hide_border=true)
 <br />
