@@ -7,7 +7,7 @@
 ---
 
 ### **About Me**
-Hi, I have a passion for machine learning and full-stack development.
+Hi, I have a passion for machine learning and full-stack development. </br>
 I enjoy learning new things and developing web sites.
 
 ---
