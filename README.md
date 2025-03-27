@@ -32,7 +32,6 @@ I enjoy learning new things and developing web sites.
 ![TCP/IP](https://img.shields.io/badge/-TCP/IP-fff?&logo=Cisco)
 
 
-### 📊 **Languages Used**
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bryce-Hiraoka&langs_count=6&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" />
-</p>
+<!--![Bryce's github stats](https://github-readme-stats.vercel.app/api?username=Bryce-Hiraoka&show_icons=true&hide_border=true)&nbsp;&nbsp;-->
+![Bryce's Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Bryce-Hiraoka&layout=compact&langs_count=8&hide_border=true)
+<br />
