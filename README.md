@@ -31,5 +31,5 @@ I enjoy learning new things and developing web sites.
 ![React](https://img.shields.io/badge/-React-fff?&logo=React)
 ![TCP/IP](https://img.shields.io/badge/-TCP/IP-fff?&logo=Cisco)
 
-![Bryce's Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Bryce-Hiraoka&hide=cython,fortran&exclude_repo=bhiraoka-assignment-10,bhiraoka-assignment-8,bhiraoka-assignment-7,bhiraoka-assignment-6,bhiraoka-assignment-5,bhiraoka-assignment-4,bhiraoka-assignment-3,bhiraoka-assignment-2bhiraoka-assignment-1,bhiraoka-assignment-0,bhiraoka-Assignment9,CS506_Lab0,CS506_Lab2&layout=compact&langs_count=10&hide_border=true)
+![Bryce's Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Bryce-Hiraoka&size_weight=0.5&count_weight=0.5&hide=cython,fortran&exclude_repo=bhiraoka-assignment-10,bhiraoka-assignment-8,bhiraoka-assignment-7,bhiraoka-assignment-6,bhiraoka-assignment-5,bhiraoka-assignment-4,bhiraoka-assignment-3,bhiraoka-assignment-2bhiraoka-assignment-1,bhiraoka-assignment-0,bhiraoka-Assignment9,CS506_Lab0,CS506_Lab2&layout=compact&langs_count=10&hide_border=true)
 <br />
