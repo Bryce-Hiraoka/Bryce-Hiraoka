@@ -1,5 +1,7 @@
 # About Me
 
+
+
 ### Languages
 
 ![Python](https://img.shields.io/badge/-Python-fff?&logo=python)
@@ -20,3 +22,10 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-fff?&logo=node.js)
 ![React](https://img.shields.io/badge/-React-fff?&logo=React)
 ![TCP/IP](https://img.shields.io/badge/-TCP/IP-fff?&logo=Cisco)
+
+
+### 📈 **GitHub Stats**
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=brycehiraoka&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=brycehiraoka&theme=tokyonight" width="48%" />
+</p>
